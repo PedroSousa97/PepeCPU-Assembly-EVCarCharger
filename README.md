@@ -17,8 +17,6 @@ The memory bank was used to store: the different displays to be presented to the
 
 To run this simulation you will need the Java Simulator that I also added to this Repo. Feel free to use it to test my Assembly program, it's super fun!
 
-<b>Note:</b> I also added the project requirements PDF in Portuguese (Has it was handed to me) so you can track how to use the simulator and which memory bank slots to use to simulate user input and visualize the interface output.
-
 ![Image description](https://github.com/PedroSousa97/PepeCPU-Assembly-EVCarCharger/blob/main/Reame_Images/print_editor.png)
 
 ![Image description](https://github.com/PedroSousa97/PepeCPU-Assembly-EVCarCharger/blob/main/Reame_Images/print_simulador.png)
